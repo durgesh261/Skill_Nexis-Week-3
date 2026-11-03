@@ -1,4 +1,4 @@
-# Week 3: Python & Data Wrangling
+# Phase 3: Automated Data Wrangling, Time-Series Cleaning & Anomaly Correction
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -7,7 +7,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Charts-388E3C?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-Comprehensive completion of **Week 3: Python & Data Wrangling** from the Data Analyst Course. This repository houses complete solutions for cleaning a messy fitness workout dataset, handling missing values, filtering rows, engineering new features, and generating exploratory data visualizations using **Matplotlib** and **Seaborn**.
+Comprehensive completion of **Phase 3: Automated Data Wrangling, Time-Series Cleaning & Anomaly Correction** from the Data Analyst Course. This repository houses complete solutions for cleaning a messy fitness workout dataset, handling missing values, filtering rows, engineering new features, and generating exploratory data visualizations using **Matplotlib** and **Seaborn**.
 
 ---
 
@@ -157,6 +157,6 @@ jupyter notebook notebooks/Week3_Python_Data_Wrangling.ipynb
 ---
 
 ## 👨‍💻 Course Information
-- **Course**: Data Analyst Course — Week 3: Python & Data Wrangling
+- **Course**: Data Analyst Course — Phase 3: Automated Data Wrangling, Time-Series Cleaning & Anomaly Correction
 - **Author**: Durgesh ([@durgesh261](https://github.com/durgesh261))
 - **Topic**: Data Cleaning, Missing Values, Outliers, Feature Engineering, Matplotlib, Seaborn
